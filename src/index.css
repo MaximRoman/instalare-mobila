@@ -308,6 +308,7 @@ h3 {
 
   .footer-content {
     grid-template-columns: auto;
+    padding: 0;
     padding-top: 20px;
     padding-bottom: 20px;
   }
