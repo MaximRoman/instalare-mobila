@@ -6,8 +6,11 @@ export default function Header() {
                 <div className="intro-text">
                     <div className="intro-text-content">
                         <h2 className="intro-name">Josanu Vicotor</h2>
-                        <h1>MONTATOR DE MOBILĂ</h1>
-                        <h2 className="intro-contact">Contactează-mă: <h3>+373 67626697</h3></h2>
+                        <h1 className="intro-object-description">MONTATOR DE MOBILĂ</h1>
+                        <div className="intro-contact">
+                            <h2>Contactează-mă:</h2> 
+                            <h3>+373 67626697</h3>
+                        </div>
                         <h2 className="intro-description">Disponibil în orașul Chișinău</h2>
                     </div>
                     <div className="intro-btn">    

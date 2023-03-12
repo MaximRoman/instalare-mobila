@@ -7,13 +7,13 @@ export default function Main() {
                 </div>
                 <div className="main-content-text">
                     <div className="content-text">
-                        <h1>SUNT AICI SĂ TE AJUT</h1>
-                        <p>
+                        <h1 className="content-text-title">SUNT AICI SĂ TE AJUT</h1>
+                        <p className="content-text-content1">
                             Numele meu este Victor Josanu. 
                             Am o echipă de montatori cu experientă în montarea oricărui tip de mobilier.
                             Suntem gata de a veni în orice parte a orașului Chișinău pentru a îndeplini cerințele dumneavoastră. 
                         </p>
-                        <p>Dacă aveîi nevoie de orice montaj de mobilă sunt aici să vă ajut!</p>
+                        <p className="content-text-content2">Dacă aveîi nevoie de orice montaj de mobilă sunt aici să vă ajut!</p>
                     </div>
                     <div className="content-btn">
                         <button className="btn">VEZI CUM TE POT AJUTA! <i className="fa-solid fa-arrow-right"></i></button>

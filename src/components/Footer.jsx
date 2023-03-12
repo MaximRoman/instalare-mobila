@@ -15,17 +15,17 @@ export default function Footer() {
                 </div>
                 <div className="footer-links">
                     <div className="link">
-                        <span class="icon-phone-square icon"></span>
+                        <span className="icon-phone-square icon"></span>
                         <h2 className="link-title">Telefon</h2>
                         <h2 className="link-description">+373 67626697</h2>
                     </div>
                     <div className="link">
-                        <span class="icon-mail-bulk icon"></span>
+                        <span className="icon-mail-bulk icon"></span>
                         <h2 className="link-title">Email</h2>
                         <h2 className="link-description">email@mail.ru</h2>
                     </div>
                     <div className="link">
-                        <span class="icon-location-arrow icon"></span>
+                        <span className="icon-location-arrow icon"></span>
                         <h2 className="link-title">Locație</h2>
                         <h2 className="link-description">Orașul Chișinău</h2>
                     </div>
